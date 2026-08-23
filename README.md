@@ -22,7 +22,6 @@ I build tools for [Pi](https://github.com/earendil-works/pi), a terminal coding 
 |---|---|
 | [pi-agent-toolkit](https://github.com/danchamorro/pi-agent-toolkit) | My versioned Pi setup, including extensions, skills, config, safety rules, and package installs. |
 | [pi-subagents](https://github.com/danchamorro/pi-subagents) | Runs background Pi, Claude Code, and Codex sub-agents. |
-| [pi-mcp-adapter](https://github.com/danchamorro/pi-mcp-adapter) | Connects Pi to MCP servers while keeping tool output and token use small. |
 | [pi-agent-modes](https://github.com/danchamorro/pi-agent-modes) | Adds agent modes with enforced tool and shell restrictions. |
 | [pi-prompt-enhancer](https://github.com/danchamorro/pi-prompt-enhancer) | Rewrites prompts before Pi sends them to the model. |
 | [pi-session-panel](https://github.com/danchamorro/pi-session-panel) | Adds keyboard-first session navigation grouped by project. |
