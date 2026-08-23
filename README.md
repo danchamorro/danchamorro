@@ -14,6 +14,30 @@
 
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&mode=light) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm&mode=light) ![Lua](https://www.shieldcn.dev/badge/-Lua-2C2D72.svg?logo=lua&variant=branded&size=sm&mode=light) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm&mode=light) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm&mode=light)
 
+## Businesses
+
+I own and operate two businesses.
+
+### [DC IT LLC](https://www.dcitllc.com)
+
+<p align="center">
+  <a href="https://www.dcitllc.com">
+    <img src="https://www.dcitllc.com/images/logos/logo-new.jpg" alt="DC IT LLC" width="320">
+  </a>
+</p>
+
+DC IT LLC builds custom dashboards, reporting systems, workflow automations, API integrations, and AI tools for businesses.
+
+### [DebtRecoup](https://www.debtrecoup.com)
+
+<p align="center">
+  <a href="https://www.debtrecoup.com">
+    <img src="https://www.debtrecoup.com/favicon.png" alt="DebtRecoup" width="64">
+  </a>
+</p>
+
+DebtRecoup gives collection agencies one platform for case management, automated follow-ups, payments, communications, and performance reporting.
+
 ## Quarry
 
 <p align="center">
