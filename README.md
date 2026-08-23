@@ -32,7 +32,7 @@ DC IT LLC builds custom dashboards, reporting systems, workflow automations, API
 
 <p align="center">
   <a href="https://www.debtrecoup.com">
-    <img src="https://www.debtrecoup.com/favicon.png" alt="DebtRecoup" width="64">
+    <img src="assets/debtrecoup-wordmark.png" alt="DebtRecoup" width="320">
   </a>
 </p>
 
