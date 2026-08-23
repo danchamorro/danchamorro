@@ -14,6 +14,18 @@
 
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&mode=light) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm&mode=light) ![Lua](https://www.shieldcn.dev/badge/-Lua-2C2D72.svg?logo=lua&variant=branded&size=sm&mode=light) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm&mode=light) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm&mode=light)
 
+## Quarry
+
+<p align="center">
+  <a href="https://github.com/danchamorro/quarry">
+    <img src="https://raw.githubusercontent.com/danchamorro/quarry/main/assets/quarry-wordmark.png" alt="Quarry" width="420">
+  </a>
+</p>
+
+I'm building [Quarry](https://github.com/danchamorro/quarry), an open-source macOS editor for CSV, TSV, and other delimited files too large for spreadsheets. It starts showing rows before the full scan finishes, keeps memory bounded, and does not touch the source until you save.
+
+The current alpha can view, search, filter, edit, reshape, sort, and safely save files. I've validated it against 12 GB and 50 GB datasets. The app is written in Rust and built in public with AI coding agents.
+
 ## Pi projects and extensions
 
 I build tools for [Pi](https://github.com/earendil-works/pi), a terminal coding agent.
