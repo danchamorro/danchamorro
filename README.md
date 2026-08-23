@@ -14,6 +14,19 @@
 
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&mode=light) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm&mode=light) ![Lua](https://www.shieldcn.dev/badge/-Lua-2C2D72.svg?logo=lua&variant=branded&size=sm&mode=light) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm&mode=light) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm&mode=light)
 
+## Pi projects and extensions
+
+I build tools for [Pi](https://github.com/earendil-works/pi), a terminal coding agent.
+
+| Project | What it does |
+|---|---|
+| [pi-agent-toolkit](https://github.com/danchamorro/pi-agent-toolkit) | My versioned Pi setup, including extensions, skills, config, safety rules, and package installs. |
+| [pi-subagents](https://github.com/danchamorro/pi-subagents) | Runs background Pi, Claude Code, and Codex sub-agents. |
+| [pi-mcp-adapter](https://github.com/danchamorro/pi-mcp-adapter) | Connects Pi to MCP servers while keeping tool output and token use small. |
+| [pi-agent-modes](https://github.com/danchamorro/pi-agent-modes) | Adds agent modes with enforced tool and shell restrictions. |
+| [pi-prompt-enhancer](https://github.com/danchamorro/pi-prompt-enhancer) | Rewrites prompts before Pi sends them to the model. |
+| [pi-session-panel](https://github.com/danchamorro/pi-session-panel) | Adds keyboard-first session navigation grouped by project. |
+
 ## 📦 Top Repositories
 
 [![pi-agent-toolkit ⭐ 11](https://www.shieldcn.dev/github/stars/danchamorro/pi-agent-toolkit.svg?variant=secondary&size=sm&mode=light)](https://github.com/danchamorro/pi-agent-toolkit) [![Python3Michigan ⭐ 5](https://www.shieldcn.dev/github/stars/danchamorro/Python3Michigan.svg?variant=secondary&size=sm&mode=light)](https://github.com/danchamorro/Python3Michigan) [![tui-toggle.yazi ⭐ 1](https://www.shieldcn.dev/github/stars/danchamorro/tui-toggle.yazi.svg?variant=secondary&size=sm&mode=light)](https://github.com/danchamorro/tui-toggle.yazi) [![PythonBeginnerMichigan ⭐ 1](https://www.shieldcn.dev/github/stars/danchamorro/PythonBeginnerMichigan.svg?variant=secondary&size=sm&mode=light)](https://github.com/danchamorro/PythonBeginnerMichigan)
