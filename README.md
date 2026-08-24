@@ -61,6 +61,7 @@ I build tools for [Pi](https://github.com/earendil-works/pi), a terminal coding 
 | [pi-agent-modes](https://github.com/danchamorro/pi-agent-modes) | Adds agent modes with enforced tool and shell restrictions. |
 | [pi-prompt-enhancer](https://github.com/danchamorro/pi-prompt-enhancer) | Rewrites prompts before Pi sends them to the model. |
 | [pi-session-panel](https://github.com/danchamorro/pi-session-panel) | Adds keyboard-first session navigation grouped by project. |
+| [pi-interactive-apps](https://github.com/danchamorro/pi-interactive-apps) | Runs persistent, project-scoped terminal apps with a tmux-backed dashboard and footer status. |
 
 ## 📦 Top Repositories
 
